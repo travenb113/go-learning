@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	// Example of use if, else и else if
+	// Example of use if, else and else if
 	age := 19
 
 	if age < 18 {
